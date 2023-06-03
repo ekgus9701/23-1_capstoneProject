@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start/SetName.unity
+    guid: 5a9b04620d9a2c04a84c145d3c457bff
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Prologue.unity
+    guid: 3be0a984ebc9a304ea335fc327a5cf28
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Prologue1.unity
+    guid: 33821095b96a31549ba1a831bfbb955b
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Prologue2.unity
+    guid: 5b1885e2432470c479adbfaee4dfb5c9
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_1/Stage1_1.unity
+    guid: f02788aa9200fb143bef9101f617f7c9
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_1/Stage1_1_1.unity
+    guid: c4409fdfe206a7f46822e5e3f620fa4b
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_1/Stage1_1_2.unity
+    guid: 3070f7ac5e7218f4c81ecdbce4833abc
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_1/Stage1_1_3.unity
+    guid: f3a83eb5eda880c4ba975f5969bf0a50
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_2/Stage1_2.unity
+    guid: 19d831656b9718d4fb36238b5a80e11e
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_2/Stage1_2_1.unity
+    guid: eeb0e4072e1393446af2bde8757c2b4f
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_2/Stage1_2_2.unity
+    guid: 1b61d2bd52c8385418ec710528bebf6e
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_2/Stage1_2_3.unity
+    guid: 5295cad533e2f50458a983231ec8624b
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_3/Stage1_3.unity
+    guid: edd4503c097b758478499c57077d3f25
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_3/Stage1_3_1.unity
+    guid: eb24789e21e865344a60ef1dc51016b2
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_3/Stage1_3_2.unity
+    guid: b3d97a622391b8f488762da2738ca88d
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_3/Stage1_3_3.unity
+    guid: b3ad6fc2d73a4454c8317de4d4b52a4b
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_4.unity
+    guid: b65fe991de50f3e4887e131d879ec2e2
+  - enabled: 1
+    path: Assets/Scenes/Stage1/BeforeQuiz.unity
+    guid: d631d8c2b7651324ba61af90ef71ed50
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_minigame.unity
+    guid: 7da07bb5acdfa194e844cfdb6dddd3ee
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_minigame2.unity
+    guid: e4b08d0fbb58c2d4eb8d227fa373872b
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_minigame3.unity
+    guid: 5816d6d08887d45419a577675d78b068
+  - enabled: 1
+    path: Assets/Scenes/Stage1/Stage1_minigame_result.unity
+    guid: ce340ff9b4e4dfb498cacbe67105b400
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_1.unity
+    guid: 2dd29bc8751c7bc468e5cd4d634807a7
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_1_1.unity
+    guid: 6b1a42bb0b1b8984f9113cbcb1384466
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_1_2.unity
+    guid: 11b5b80f14513804d85f743edd0a8ffd
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_1_3.unity
+    guid: eb8205d7ba1dc5f44961f513a5896275
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_2.unity
+    guid: 627e91e23a2fc464bbd129cfef31881e
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_2_1.unity
+    guid: 697070e9f7fa4d345bfc69662f1f4c7f
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_2_2.unity
+    guid: ae8f4233616497849b72814bd0824e1b
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_2_3.unity
+    guid: e9a01a1f604d43b498f663ce61180401
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_3.unity
+    guid: 23b1ae26a2f70704e838fb19e66dc2e5
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_3_1.unity
+    guid: 3f7513a6d690d8546946da74bc74cb4e
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_3_2.unity
+    guid: 3ee77bfb8a6843f4fb4cb4fda7063ebf
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_3_3.unity
+    guid: a967a02f59927c642aae7d442825ee46
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_4.unity
+    guid: 9a9f1c5b5270729409eee99dede9aadc
+  - enabled: 1
+    path: Assets/Scenes/Stage2/BeforeQuiz2.unity
+    guid: 24bf50952b8eab64680ff4e607648d5f
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_Minigame_OX.unity
+    guid: 779ee1c064761574a9963441a7b7128b
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_Minigame_OX2.unity
+    guid: abbcde9229e93e142b268f8280f65abf
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_Minigame_OX3.unity
+    guid: 9e5f4e75df1f48443b74eb1a5b226ba1
+  - enabled: 1
+    path: Assets/Scenes/Stage2/Stage2_minigame_result.unity
+    guid: f39037100f20a9c42bf8b5eed7e748d0
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_0.unity
+    guid: 96f2f51250c230a4e85f1b7ed7d10797
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_1.unity
+    guid: 987a74e0d73306041bc609cbea7b26e3
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_1_1.unity
+    guid: d7fef774a4d3685458cc7d74fc6260f7
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_1_2.unity
+    guid: 2779a472420d88d4a822cd059d918337
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_1_3.unity
+    guid: c362a5b1d663a2b4b92050b29cf01eaa
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_2.unity
+    guid: bafb94381c896e34cbd5caa703ed6990
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_2_1.unity
+    guid: 699fcb812dd8ac8499ef3227c36c0785
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_2_2.unity
+    guid: 645501bcfb93c224ba9895c48524a368
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_2_3.unity
+    guid: 22508e001f3d89648aa081862523609d
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_3.unity
+    guid: d3f75bad319b4bf4684c41fe5a290431
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_3_1.unity
+    guid: 16c9df02637a5464d99b975109947055
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_3_2.unity
+    guid: e10e94c61efd95642a8fdc4239a4d727
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_3_3.unity
+    guid: 01fcdbf6fb1a16c4ca2c3da29ac1356e
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_4.unity
+    guid: e818b524721fd124fbb634bfcf7ba5c5
+  - enabled: 1
+    path: Assets/Scenes/Stage3/BeforeQuiz3.unity
+    guid: 289e1f87249ce2949a6a07d2c49eb33e
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_minigame.unity
+    guid: 1e53d50e36398794a8db6259786afbe9
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_minigame2.unity
+    guid: a3c9ce1cdbcf8274183fabb58e3452b6
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_minigame3.unity
+    guid: e34e82c0fd308da46b27fbe0e571439b
+  - enabled: 1
+    path: Assets/Scenes/Stage3/Stage3_minigame_result.unity
+    guid: a4868af8c041757498735d611229556f
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/Epilogue.unity
+    guid: aec3e9655f4fa1d418dcdd02b88f813d
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/Epilogue2_1.unity
+    guid: a41d7febf71edab40a191bbbce6b9bc2
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/Epilogue2_2.unity
+    guid: 9f38919cfb6533c4ba6174c771521978
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/Epilogue2_3.unity
+    guid: accf10e00e576bc4586d7e3839312051
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/Epilogue3.unity
+    guid: 2676495ba56b5a449a051ea0c9569788
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/BoyChoose.unity
+    guid: 715e99acfa15eb043b3d3bff8b7b6293
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/EsooBad.unity
+    guid: 1e038fbc40348f24d9069452fbc8b63f
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/EsooGood.unity
+    guid: 50f3842ffacebca44b17cc5460603c38
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/EsooNormal.unity
+    guid: d836fb1354547204286fe750814de823
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/GeonBad.unity
+    guid: b323d1fc5ec5d884ebffc8b42bef459f
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/GeonGood.unity
+    guid: 14d6de041ad7e9e45959d92cc0819494
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/GeonNormal.unity
+    guid: ef19922b3eb52ee47ad2fd100df481f0
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/HJBad.unity
+    guid: 57ba701aaea8a6d4d94fac734337e8dc
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/HJGood.unity
+    guid: 3deda08f2ff51ee4b8ffef5f8f140d91
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/HJNormal.unity
+    guid: 86d08d5d39a725a4fb22afc1360d72d2
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/End1.unity
+    guid: 04fa967358197eb40920957d8ca3e6dc
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/End2.unity
+    guid: 71ac9dc6d95e1f543a85d8ad4680d30f
+  - enabled: 1
+    path: Assets/Scenes/Epilogue/End3.unity
+    guid: f43f9b9a77a50004da82f38c266491a7
+  m_configObjects: {}
