@@ -1,7 +1,8 @@
 # 23-1_CapstoneProject
- 23-1 융합콘텐츠캡스톤디자인 수업에서 만든 Z세대의 어휘력 향상을 위한 시뮬레이션 게임입니다.
+ 23-1 융합콘텐츠캡스톤디자인 수업에서 만든 Z세대의 어휘력 향상을 위한 시뮬레이션 게임입니다. 
  
- 게임 실행파일은 여기서 다운 받으실 수 있습니다. https://drive.google.com/file/d/1uELl5rnZXfdxu9EEBS3ICwJMZts1ITbK/view?usp=sharing
+ 게임 실행파일은 여기서 다운 받으실 수 있습니다.
+ https://drive.google.com/file/d/1uELl5rnZXfdxu9EEBS3ICwJMZts1ITbK/view?usp=sharing 
 
 ### 1. 개발 도구
 
