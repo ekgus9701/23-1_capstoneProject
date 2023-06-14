@@ -15,11 +15,13 @@
 <br>그림 1. Stage 1 대화 화면
 
 
+
 ### 3. 선택지 시스템
 
 각 씬의 대화가 끝나면 사용자는 맥락에 맞는 어휘가 사용된 선택지를 선택하여야 하는데 이는 버튼으로 구현하였고 버튼에 스크립트를 연결하여 사용자에게 정답/오답 여부를 알려주는 Popup 화면이 보이도록 하였다. Popup 화면에서 사용자가 확인 버튼을 누르면 씬 이동이 진행되는데 버튼에 스크립트를 연결하여 사용자 씬 이동을 구현하였다. 사용자의 선택에 따라 NPC의 사용자에 대한 호감도가 변경되어야 하기 때문에 NPC의 사용자에 대한 호감도 데이터를 PlayerPrefs에 저장해두고 선택이 이루어질 때마다 변경하였다. Stage 1, 2, 3는 모두 동일한 기능을 가지기 때문에, 위와 같은 방식으로 개발하였다. 그림 2는 Stage 1의 선택지 선택 화면, 그림 3은 정답/오답 여부를 알려주는 Pop up 화면이다.
  
-![image](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/d7dfa893-1141-497f-900e-e11d45ff93c4)
+
+![캡처 (1)](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/6d55cb3c-2809-4a0d-b76e-cd729c20d869)
 <br>그림2 . Stage 1 선택지 선택 화면
 
 ![image](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/bbb17705-b51c-44d7-a104-40835c39214c)
@@ -52,8 +54,7 @@ Stage 3 미니게임은 글자 버튼을 클릭하면 답안 부분에 글자가
 
 ### 5. 기타 
 
-
-![image](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/39a2bd21-7a98-4753-a7cb-cc0a68f45aa6)
+![캡처 (2)](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/fe1f39af-a0cf-42bf-b9d0-abcfd4d41971)
 <br>그림7 . 게임 시작 화면
 
 (1) 게임 시작
@@ -61,7 +62,7 @@ Stage 3 미니게임은 글자 버튼을 클릭하면 답안 부분에 글자가
 
 
 ![image](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/e1f482eb-8d6b-486e-ac01-c0cf912236fc)
-<br>그림8 .  이름 입력 화면
+<br>그림8 . 이름 입력 화면
 
 
 (2) 이름 입력
@@ -74,11 +75,7 @@ Stage 3 미니게임은 글자 버튼을 클릭하면 답안 부분에 글자가
 게임 종료 화면은 버튼을 배치하고 키보드의 입력을 받아 ESC키를 누르면 SetActive를 활용해 화면이 나타나도록 하였다. 그림 9는 게임 종료 화면의 모습이다.
 
 
-
-
-
-
-![image](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/7d0e38b1-f1b2-4ac2-9701-95d901afd1cc) 
+![캡처 (3)](https://github.com/ekgus9701/23-1_CapstoneProject/assets/52192706/54d1684b-7820-407c-9146-49789fcfccbe)
 <br>그림10 . 문장 쓰기 화면
 
 (4) 문장 쓰기
