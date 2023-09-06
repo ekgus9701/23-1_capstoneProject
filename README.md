@@ -4,7 +4,7 @@
  게임 실행파일은 여기서 다운 받으실 수 있습니다. (Windows에서 실행 가능)
  https://drive.google.com/file/d/1uELl5rnZXfdxu9EEBS3ICwJMZts1ITbK/view?usp=sharing 
 
- 게임 시연영상은 여기서 보실 수 있습니다.
+ 게임 시연영상은 여기서 보실 수 있습니다.<br>
  https://drive.google.com/file/d/12t3zm0ICyjLxG2PD2vjQ74CaQq8jo02h/view?usp=drive_link
 
 ### 1. 개발 도구
